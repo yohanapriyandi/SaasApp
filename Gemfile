@@ -56,7 +56,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'carrierwave', '~> 2.2', '>= 2.2.2'
 gem 'mini_magick', '~> 4.11'
-gem 'bulma-rails', '~> 0.9.1'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'sidekiq', '~> 6.2', '>= 6.2.1'
 gem 'stripe', '~> 5.38'
